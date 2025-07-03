@@ -32,5 +32,4 @@ This repository contains an automated testing suite using **Selenium WebDriver**
 
 ```bash
 git clone https://github.com/your-username/selenium-dpaisa-tests.git
-cd selenium-dpaisa-tests
-I. Are from. July. Samsung.com. 
+cd selenium-tests
