@@ -1,0 +1,33 @@
+
+---
+
+### 📄 `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Reports & Logs
+test_report.json
+*.log
+
+# Selenium & ChromeDriver temp files
+*.crdownload
+*.tmp
+.chromedriver/
+chromedriver.exe
+
+# VSCode
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
