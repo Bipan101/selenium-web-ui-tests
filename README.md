@@ -1,4 +1,4 @@
-# dPaisa Website Automated Testing (Sanitized Version)
+# eWallet Website Automated Testing (Sanitized Version)
 
 This repository contains an automated testing suite using **Selenium WebDriver** in Python to perform comprehensive UI and functional tests for a sample website (`https://test.com`).
 
