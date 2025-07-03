@@ -2,8 +2,7 @@
 
 This repository contains an automated testing suite using **Selenium WebDriver** in Python to perform comprehensive UI and functional tests for a sample website (`https://test.com`).
 
-> ⚠️ **Note:** The original URL (`https://test.dpaisa.com.np`) has been replaced with `https://test.com` to protect internal test environments. Please update the URLs if running on a different domain.
-
+> ⚠️ **Note:** The original URL (`https://test.com.np`) should be replaced with `https://yourURL.com` for the testing.
 ---
 
 ## 🧪 Features Tested
